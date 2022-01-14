@@ -31964,7 +31964,7 @@ m=s.x
 n=T.iJ(f,f,n.bw(0,m==null?H.a6():m).a*0.03)
 m=s.gbD()
 l=s.x
-r=T.Ap(H.a([r,new U.pt(new L.os("assets/tesla.png"),o.a*0.15,f),n,L.iT("Tesla Model S",A.dE(f,f,f,f,f,f,f,f,f,f,f,m.bw(0,l==null?H.a6():l).a*0.06,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],p),C.aI,C.by)
+r=T.Ap(H.a([r,new U.pt(new L.os("assets/tesla.png"),o.a*0.1,f),n,L.iT("Tesla Model S",A.dE(f,f,f,f,f,f,f,f,f,f,f,m.bw(0,l==null?H.a6():l).a*0.05,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],p),C.aI,C.by)
 o=s.gbD()
 n=s.x
 o=T.iJ(f,o.bw(0,n==null?H.a6():n).b*0.01,f)
@@ -31973,7 +31973,7 @@ m=s.x
 n=T.iJ(f,f,n.bw(0,m==null?H.a6():m).a*0.03)
 m=s.gbD()
 l=s.x
-n=T.Ap(H.a([n,L.iT("Check your driving pattern.",A.dE(f,f,C.m,f,f,f,f,f,f,f,f,m.bw(0,l==null?H.a6():l).a*0.05,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],p),C.aI,C.by)
+n=T.Ap(H.a([n,L.iT("Check your driving pattern.",A.dE(f,f,C.m,f,f,f,f,f,f,f,f,m.bw(0,l==null?H.a6():l).a*0.04,f,f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],p),C.aI,C.by)
 m=s.gbD()
 l=s.x
 m=T.iJ(f,m.bw(0,l==null?H.a6():l).b*0.02,f)
